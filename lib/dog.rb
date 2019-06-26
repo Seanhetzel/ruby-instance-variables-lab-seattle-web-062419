@@ -1,5 +1,5 @@
 class Dog
   def name=(name)
-    puts "Lassie"
+    p@this_dogs_name = name
   end
 end
