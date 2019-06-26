@@ -1,5 +1,5 @@
 class Dog
   def name=(name)
-    puts name
+    "Lassie"
   end
 end
